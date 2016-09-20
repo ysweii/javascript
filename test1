@@ -1,1 +1,3 @@
-this is the first test file
+<script>
+	console.log("this is the first test file")
+</script>
